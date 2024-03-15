@@ -45,7 +45,7 @@ Neither of these claims are accurate.
 For centuries, it has been established practice among actuaries,
 demographers, and health researchers to measure mortality using death
 rates by age where such data is available[^3]. This method superseded
-Crude Mortality Rates, where CMR takes into account total population
+Crude Mortality Rates (CMR), where CMR takes into account total population
 change in comparisons by dividing the total number of deaths by the
 total number of people available to die, improving CMR by acknowledging
 that different ages have different risks of death, so comparing
