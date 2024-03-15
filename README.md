@@ -69,8 +69,8 @@ would be expected based on pre-COVID-19 trends)[^5].
 
 The Our World in Data graph, and the Karlinsky and Kobak method that
 underlies it, is an approximation (if it is a better or worse
-approximation to Gibson’s method will be discussed later). While
-recognising the Our World In Data graph is an approximation, there are
+approximation to Gibson’s method will be discussed later). Given that the Our World In Data graph 
+is an approximation, there are
 still several practically useful implicit features about it:
 
 - Being based on trends of deaths, it enables a common basis comparison
