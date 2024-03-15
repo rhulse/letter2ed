@@ -60,11 +60,11 @@ resident population divided by the living current resident population,
 stratified by age group and time period. This directly measures the
 population change effects Gibson is trying to model.
 
-While calculation of New Zealand’s cumulative excess mortality for
+The calculation of New Zealand’s cumulative excess mortality for
 2020-2022 can vary by a couple of percentage points depending on the
-exact method, using a death rates by age (standardised) method the
-Institute of Actuaries finds New Zealand’s excess mortality from week 10
-2020 to the end of 2022 to be -4% (that there are 4% fewer deaths than
+exact method used. When we apply the death rates by age (standardised) method used by the
+Institute of Actuaries, we find New Zealand’s excess mortality from week 10
+2020 to the end of 2022 to be -4%. That means 4% fewer deaths than
 would be expected based on pre-COVID-19 trends)[^5].
 
 The Our World in Data graph, and the Karlinsky and Kobak method that
